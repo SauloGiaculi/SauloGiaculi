@@ -1,7 +1,9 @@
 # Saulo César Giaculi Neto
 
- Formado em Gestão da Tecnologia da Informação
+ 🎓Formado em Gestão da Tecnologia da Informação
+ 💼Assistente Administrativo Pleno
 
+Atualmente estou procurando recolocação no mercado de trabalho.
 
 ### 📟 Redes Sociais
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/SauloGiaculi)
