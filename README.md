@@ -5,11 +5,15 @@
 
 - 📫 E-mail para contato **saulogiaculi@outlook.com.br**
 
-- 📖 Estou estudando o **Bootcamp Santander Ciência de dados com Python na DIO**
+- 📖 Estou estudando o **Bootcamp Santander 2023 - Ciência de dados com Python na DIO**
 
 - 📝 Estou realizando o desafio **#100DaysOfCode da Replit**
 
 - 📚 Alguns cursos que já realizei **Microsoft Windows Server 2019**/**Linguagem de banco de dados SQL**/**Curso básico de configuração de equipamentos CISCO**/**Fundamentos de Computação e Arquitetura e ProtocolosTCP/IP**/**Montagem e manutenção de computadores**
+
+<h3 align="left">Prêmios e Conquistas:</h3>
+
+- 🎖️ **Medalha de Mérito "Marechal Castello Branco" - Grau Bronze**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
