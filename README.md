@@ -3,11 +3,11 @@
 
 - 👨‍🎓 Formado em **Gestão da Tecnologia da Informação**
 
-- 📫 E-mail para contato **saulogiaculi@outlook.com.br**
+- 📧 E-mail para contato **saulogiaculi@outlook.com.br**
 
 - 📖 Estou estudando o **Bootcamp Santander 2023 - Ciência de dados com Python na DIO**
 
-- 📝 Estou realizando o desafio **#100DaysOfCode da Replit**
+- 📝 Realizando o desafio **#100DaysOfCode da Replit**
 
 - 📚 Alguns cursos que já realizei **Microsoft Windows Server 2019**/**Linguagem de banco de dados SQL**/**Curso básico de configuração de equipamentos CISCO**/**Fundamentos de Computação e Arquitetura e ProtocolosTCP/IP**/**Montagem e manutenção de computadores**
 
