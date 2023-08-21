@@ -7,7 +7,7 @@
 
 - 📫 E-mail para contato **saulogiaculi@outlook.com.br**
 
-- 📖 Estou estudando o **Bootcamp Santander Ciência de dados e Python na DIO.**
+- 📖 Estou estudando o **Bootcamp Santander Ciência de dados com Python na DIO.**
 
 - 📝 Estou realizando o desafio **#100DaysOfCode da Replit**
 
