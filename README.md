@@ -3,9 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saulogiaculi&label=Visitas%20ao%20Perfil&color=0e75b6&style=flat" alt="saulogiaculi" /> </p>
 
-- 🌱 No momento estou estudando **o Bootcamp Santander Ciência de dados e Python na DIO.**
+- 👨‍🎓 Formado em **Gestão da Tecnologia da Informação**
 
 - 📫 E-mail para contato **saulogiaculi@outlook.com.br**
+
+- 📖 Estou estudando o **Bootcamp Santander Ciência de dados e Python na DIO.**
+
+- 📝 Estou realizando o desafio **#100DaysOfCode da Replit**
+
+- 📚 Alguns cursos que já realizei Microsoft Windows Server 2019
+                                   Linguagem de banco de dados SQL
+                                   Curso básico de configuração de equipamentos CISCO
+                                   Fundamentos de Computação e Arquitetura e ProtocolosTCP/IP
+                                   Montagem e manutenção de computadores
 
 <h3 align="left">Conect-se comigo:</h3>
 <p align="left">
