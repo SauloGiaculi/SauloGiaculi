@@ -1,22 +1,16 @@
-# Saulo César Giaculi Neto
+<h1 align="center">Olá, Eu sou o Saulo César Giaculi Neto</h1>
+<h3 align="center">Estudante de Ciência de dados e Python, com algum conhecimento em Infraestrutura !</h3>
 
- 🎓Formado em Gestão da Tecnologia da Informação
- 💼Assistente Administrativo Pleno
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saulogiaculi&label=Visitas%20ao%20Perfil&color=0e75b6&style=flat" alt="saulogiaculi" /> </p>
 
-Atualmente estou procurando recolocação no mercado de trabalho.
+- 🌱 No momento estou estudando **o Bootcamp Santander Ciência de dados e Python na DIO.**
 
-### 📟 Redes Sociais
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/SauloGiaculi)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SauloGiaculi)
+- 📫 How to reach me **saulogiaculi@outlook.com.br**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saulogiaculi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saulogiaculi/" height="30" width="40" /></a>
+</p>
 
-### 📕 Cursos Relizados
-Microsoft Windows Server 2019
-
-Linguagem de banco de dados SQL
-
-Curso básico de configuração de equipamentos CISCO
-
-Fundamentos de Computação e Arquitetura e ProtocolosTCP/IP
-
-Montagem e manutenção de computadores
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
